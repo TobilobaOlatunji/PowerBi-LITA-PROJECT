@@ -27,3 +27,9 @@ At the Initial stage of Data cleaning and preparation, the folloeing functions a
   5. Add colums if necessary.
   6. Unpivot Columns.
   7. Combine Columns.
+
+### Data Visualization
+
+![LITA POWER BI TEXT CLEANING 2](https://github.com/user-attachments/assets/edf4df61-3679-45ec-9b8e-1392635241af)
+![LITA POWER BI TEXT CLEANING 3](https://github.com/user-attachments/assets/ca463cbf-88b5-4e05-b68f-b3bf089aa04a)
+![LITA POWER BI TEXT CLEANING 4](https://github.com/user-attachments/assets/f0b285b6-0d48-4ed9-9c18-6842d7b6b30c)
